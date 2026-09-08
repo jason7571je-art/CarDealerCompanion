@@ -1,0 +1,14 @@
+Car Dealer Companion v0.45.0.0 - RELEASE
+
+Release cleanup
+- Promotes the proven v0.44.0.81 performance base to the v0.45 milestone.
+- Removes Map and Progression from navigation.
+- Adds Automation - Coming Soon.
+- Adds AutoFleet + Dealerships - Coming Soon.
+- Changes the Companion show/focus/hide hotkey from Page Up to F1.
+- Removes Pass 11 profiling instrumentation and test branding; the proven Cars caches/performance behaviour remains.
+- No game save/database writes.
+- No extracted game artwork is bundled in this ZIP; supported visuals are sourced from the player's installed game at runtime.
+
+Release candidate check
+Install normally, launch the game, load an existing save, verify the main pages, change the hotkey once in Settings, verify the new key opens/focuses/hides the Companion, then relaunch to confirm the chosen key persists.

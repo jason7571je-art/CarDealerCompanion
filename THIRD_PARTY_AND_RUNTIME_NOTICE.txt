@@ -1,0 +1,26 @@
+CAR DEALER COMPANION v0.45.0.0 - THIRD-PARTY / REQUIREMENT NOTICE
+
+Car Dealer Companion itself is distributed as scripts/configuration.
+
+UE4SS
+- UE4SS is REQUIRED but is NOT bundled with Car Dealer Companion.
+- Users must install a compatible UE4SS build separately.
+- Official current project: UE4SS-RE / RE-UE4SS on GitHub.
+- UE4SS is licensed separately by its own authors.
+
+GAME ART / ASSETS
+- This public package is intended not to redistribute extracted Car Dealer Simulator artwork/assets.
+- Where supported visual information is used, the Companion obtains it from the user's installed game at runtime and stores Companion-owned cached material locally.
+
+NETWORK / TELEMETRY
+- Car Dealer Companion is not designed to send telemetry, email, analytics, or user data to the author.
+- The XAML schema URLs present in Overlay.ps1 are XML namespace identifiers, not runtime web requests.
+
+STARTUP
+- INSTALL.cmd registers CarDealerCompanionWatcher under the current user's Windows Run key so the Companion can start with the game.
+- UNINSTALL.cmd removes that startup registration.
+- UE4SS itself is left untouched by the Companion uninstaller.
+
+UNOFFICIAL PROJECT
+Car Dealer Companion is an independent fan-made utility and is not affiliated with,
+endorsed by, or sponsored by the developers or publisher of Car Dealer Simulator.

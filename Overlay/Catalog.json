@@ -1,0 +1,254 @@
+[
+  {
+    "id": "BrakeClips",
+    "name": "Brake Clips",
+    "group": "Brakes",
+    "source": "CarParts",
+    "object": "BlueprintGeneratedClass'BP_Product_CarPart_BrakeClips_C'"
+  },
+  {
+    "id": "BrakeDisc",
+    "name": "Brake Disc",
+    "group": "Brakes",
+    "source": "CarParts",
+    "object": "BlueprintGeneratedClass'BP_Product_CarPart_BrakeDisc_C'"
+  },
+  {
+    "id": "Clutch",
+    "name": "Clutch",
+    "group": "Engine",
+    "source": "CarParts",
+    "object": "BlueprintGeneratedClass'BP_Product_CarPart_Clutch_C'"
+  },
+  {
+    "id": "Engine",
+    "name": "Engine",
+    "group": "Engine",
+    "source": "CarParts",
+    "object": "BlueprintGeneratedClass'BP_Product_CarPart_Engine_C'"
+  },
+  {
+    "id": "ExhaustCatalyticConverter",
+    "name": "Exhaust Catalytic Converter",
+    "group": "Exhaust",
+    "source": "CarParts",
+    "object": "BlueprintGeneratedClass'BP_Product_CarPart_CatalyticConverter_C'"
+  },
+  {
+    "id": "ExhaustMainfold",
+    "name": "Exhaust Mainfold",
+    "group": "Exhaust",
+    "source": "CarParts",
+    "object": "BlueprintGeneratedClass'BP_Product_CarPart_ExhaustManifold_C'"
+  },
+  {
+    "id": "ExhaustMuffler",
+    "name": "Exhaust Muffler",
+    "group": "Exhaust",
+    "source": "CarParts",
+    "object": "BlueprintGeneratedClass'BP_Product_CarPart_ExhaustMuffler_C'"
+  },
+  {
+    "id": "ExhaustResonator",
+    "name": "Exhaust Resonator",
+    "group": "Exhaust",
+    "source": "CarParts",
+    "object": "BlueprintGeneratedClass'BP_Product_CarPart_ExhaustResonator_C'"
+  },
+  {
+    "id": "ExhaustTailPipe",
+    "name": "Exhaust Tail Pipe",
+    "group": "Exhaust",
+    "source": "CarParts",
+    "object": "BlueprintGeneratedClass'BP_Product_CarPart_TailPipe_C'"
+  },
+  {
+    "id": "Fuse10",
+    "name": "Fuse 10",
+    "group": "Fuses",
+    "source": "Fuses",
+    "object": "BlueprintGeneratedClass'BP_Product_Fuse10_C'"
+  },
+  {
+    "id": "Fuse15",
+    "name": "Fuse 15",
+    "group": "Fuses",
+    "source": "Fuses",
+    "object": "BlueprintGeneratedClass'BP_Product_Fuse15_C'"
+  },
+  {
+    "id": "Fuse20",
+    "name": "Fuse 20",
+    "group": "Fuses",
+    "source": "Fuses",
+    "object": "BlueprintGeneratedClass'BP_Product_Fuse20_C'"
+  },
+  {
+    "id": "Fuse25",
+    "name": "Fuse 25",
+    "group": "Fuses",
+    "source": "Fuses",
+    "object": "BlueprintGeneratedClass'BP_Product_Fuse25_C'"
+  },
+  {
+    "id": "Fuse30",
+    "name": "Fuse 30",
+    "group": "Fuses",
+    "source": "Fuses",
+    "object": "BlueprintGeneratedClass'BP_Product_Fuse30_C'"
+  },
+  {
+    "id": "Fuse40",
+    "name": "Fuse 40",
+    "group": "Fuses",
+    "source": "Fuses",
+    "object": "BlueprintGeneratedClass'BP_Product_Fuse40_C'"
+  },
+  {
+    "id": "Fuse5",
+    "name": "Fuse 5",
+    "group": "Fuses",
+    "source": "Fuses",
+    "object": "BlueprintGeneratedClass'BP_Product_Fuse5_C'"
+  },
+  {
+    "id": "Fuse50",
+    "name": "Fuse 50",
+    "group": "Fuses",
+    "source": "Fuses",
+    "object": "BlueprintGeneratedClass'BP_Product_Fuse50_C'"
+  },
+  {
+    "id": "Fuse60",
+    "name": "Fuse 60",
+    "group": "Fuses",
+    "source": "Fuses",
+    "object": "BlueprintGeneratedClass'BP_Product_Fuse60_C'"
+  },
+  {
+    "id": "Fusepack5",
+    "name": "Fuse Pack 5",
+    "group": "Fuses",
+    "source": "Components",
+    "object": "BlueprintGeneratedClass'BP_ProductFusePack5_C'"
+  },
+  {
+    "id": "Fusepack10",
+    "name": "Fusepack 10",
+    "group": "Fuses",
+    "source": "Components",
+    "object": "BlueprintGeneratedClass'BP_ProductFusePack10_C'"
+  },
+  {
+    "id": "Fusepack15",
+    "name": "Fusepack 15",
+    "group": "Fuses",
+    "source": "Components",
+    "object": "BlueprintGeneratedClass'BP_ProductFusePack15_C'"
+  },
+  {
+    "id": "Fusepack20",
+    "name": "Fusepack 20",
+    "group": "Fuses",
+    "source": "Components",
+    "object": "BlueprintGeneratedClass'BP_ProductFusePack20_C'"
+  },
+  {
+    "id": "Fusepack25",
+    "name": "Fusepack 25",
+    "group": "Fuses",
+    "source": "Components",
+    "object": "BlueprintGeneratedClass'BP_ProductFusePack25_C'"
+  },
+  {
+    "id": "Fusepack30",
+    "name": "Fusepack 30",
+    "group": "Fuses",
+    "source": "Components",
+    "object": "BlueprintGeneratedClass'BP_ProductFusePack30_C'"
+  },
+  {
+    "id": "Fusepack40",
+    "name": "Fusepack 40",
+    "group": "Fuses",
+    "source": "Components",
+    "object": "BlueprintGeneratedClass'BP_ProductFusePack40_C'"
+  },
+  {
+    "id": "Fusepack50",
+    "name": "Fusepack 50",
+    "group": "Fuses",
+    "source": "Components",
+    "object": "BlueprintGeneratedClass'BP_ProductFusePack50_C'"
+  },
+  {
+    "id": "Fusepack60",
+    "name": "Fusepack 60",
+    "group": "Fuses",
+    "source": "Components",
+    "object": "BlueprintGeneratedClass'BP_ProductFusePack60_C'"
+  },
+  {
+    "id": "Battery",
+    "name": "Battery",
+    "group": "Other Parts",
+    "source": "CarParts",
+    "object": "BlueprintGeneratedClass'BP_Product_CarPart_Battery_C'"
+  },
+  {
+    "id": "Intercooler",
+    "name": "Intercooler",
+    "group": "Other Parts",
+    "source": "CarParts",
+    "object": "BlueprintGeneratedClass'BP_Product_CarPart_Intercooler_C'"
+  },
+  {
+    "id": "Windshield",
+    "name": "Windshield",
+    "group": "Other Parts",
+    "source": "CarParts",
+    "object": "BlueprintGeneratedClass'BP_Product_CarPart_Windshield_C'"
+  },
+  {
+    "id": "FuelCanister",
+    "name": "Fuel Canister",
+    "group": "Others",
+    "source": "Components",
+    "object": "BlueprintGeneratedClass'BP_Product_FuelCanister_C'"
+  },
+  {
+    "id": "CarplateRepairKit",
+    "name": "Plate Repair Kit",
+    "group": "Others",
+    "source": "Components",
+    "object": "BlueprintGeneratedClass'BP_Product_CarplatesKit_C'"
+  },
+  {
+    "id": "SealingTape",
+    "name": "Sealing Tape",
+    "group": "Others",
+    "source": "Components",
+    "object": "BlueprintGeneratedClass'BP_Product_SealingTape_C'"
+  },
+  {
+    "id": "FrontShockAbsorber",
+    "name": "Front Shock Absorber",
+    "group": "Suspension",
+    "source": "CarParts",
+    "object": "BlueprintGeneratedClass'BP_Product_CarPart_FrontShockAbsorber_C'"
+  },
+  {
+    "id": "RearShockAbsorber",
+    "name": "Rear Shock Absorber",
+    "group": "Suspension",
+    "source": "CarParts",
+    "object": "BlueprintGeneratedClass'BP_Product_CarPart_RearShockAbsorber_C'"
+  },
+  {
+    "id": "SuspensionArmPin",
+    "name": "Suspension Arm Pin",
+    "group": "Suspension",
+    "source": "CarParts",
+    "object": "BlueprintGeneratedClass'BP_Product_CarPart_SupsensionArmPin_C'"
+  }
+]
